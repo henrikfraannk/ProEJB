@@ -1,0 +1,11 @@
+dk/sdu/mmmi/cbse/project7/common/data/Rotation.class
+dk/sdu/mmmi/cbse/project7/common/data/View.class
+dk/sdu/mmmi/cbse/project7/common/data/Entity.class
+dk/sdu/mmmi/cbse/project7/common/data/GameTime.class
+dk/sdu/mmmi/cbse/project7/common/data/Velocity.class
+dk/sdu/mmmi/cbse/project7/common/data/World.class
+dk/sdu/mmmi/cbse/project7/common/services/IEntityProcessingService.class
+dk/sdu/mmmi/cbse/project7/common/data/Position.class
+dk/sdu/mmmi/cbse/project7/common/data/Scale.class
+dk/sdu/mmmi/cbse/project7/common/services/IGamePluginService.class
+dk/sdu/mmmi/cbse/project7/common/data/BehaviourEnum.class
